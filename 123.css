@@ -1,0 +1,15 @@
+body{
+    background-color:hsl(0, 0%, 100%);
+}
+
+.container-navbar{
+    background-color: #999;
+}
+
+.ul-navbar{
+background-color:blueviolet ;
+}
+
+.li-navbar{
+background-color: chocolate;
+}
